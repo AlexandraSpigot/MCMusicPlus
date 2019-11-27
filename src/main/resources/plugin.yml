@@ -1,0 +1,5 @@
+name: MCMusicPlus
+version: ${project.version}
+main: me.alexandra.mcmusicplus.MCMusicPlus
+api-version: 1.13
+depend: [NoteBlockAPI]
